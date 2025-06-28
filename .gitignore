@@ -1,0 +1,7 @@
+compile_game.sh
+scores.csv
+poetry.lock
+*.app
+*.build
+*.dist
+.DS_Store
