@@ -4,7 +4,8 @@
 This game is designed for a chill, stress-free experience—perfect for winding down and enjoying some casual block stacking.
 
 Video demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZoQ6w73rbkY?si=18WG6JvQC-cU3TuX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Video demo](https://img.youtube.com/vi/ZoQ6w73rbkY/0.jpg)](https://youtu.be/ZoQ6w73rbkY)
 
 ## Features
 
